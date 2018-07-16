@@ -1,0 +1,20 @@
+﻿  task_main_send.c
+  task_main_recv.c
+  main.c
+  task_n_send.c
+  task_n_recv.c
+  task_n.c
+  task_nm.c
+  task_nm_send.c
+  task_nm_recv.c
+  task_mnt_send.c
+  task_mnt_recv.c
+  task_mnt.c
+  task_main.c
+  task_exm_send.c
+  task_exm_recv.c
+  task_exm.c
+  msg_com.c
+  fileio.c
+c:\users\雄作\documents\仕事\workspace\msg_debug\msg_debug\debug_msgmng\debug_if\fileio\fileio.c(6): fatal error C1083: include ファイルを開けません。'msg_com.h':No such file or directory
+  コードを生成中...
